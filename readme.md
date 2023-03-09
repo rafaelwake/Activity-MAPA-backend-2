@@ -18,4 +18,5 @@ Você foi designado para criar um sistema web (PHP e Mysql) que irá registrar e
 3 - O solicitante pode a qualquer momento buscar informações de sua solicitação, para isso ele deve informar o número do protocolo gerado e o sistema deverá imprimir estas informações na tela.
 4 – O sistema deve ser construído utilizando a linguagem PHP, banco de dados Mysql com PDO.
 5 – Seguir a estrutura da tabela protocolo.
+
 ![image](https://user-images.githubusercontent.com/60991402/223887727-d089719b-e5df-4eeb-892a-e9610a812e4f.png)
